@@ -1,0 +1,71 @@
+#outer {color: blue;}
+
+div {
+
+background-color: rgb(250, 13, 210);
+height: 30vh;
+
+}
+.div1 {border-radius: 100px;}
+#div2 {font-weight: bolder;}
+
+.divAll .null {background-color: red;}
+.divAll > .null {color: white;}
+#div1 ~ .null {border-radius: 10px;}
+#div1 + .null {border: 5px black solid;}
+
+.box {
+    background-color: rgb(78, 31, 122);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.lg {
+    background-color: red;
+    color: black;
+    display: flex;
+}
+.hh {
+    background-color: rgb(255, 106, 0);
+    color: black;
+    display: flex;
+}
+.lt {
+    background-color: rgba(64, 17, 105, 0.226);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.ssg {
+    background-color: red;
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.kia {
+    background-color: red;
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.kt {
+    background-color: rgb(3, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.nc {
+    background-color: rgba(17, 2, 85, 0.517);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.ss {
+    background-color: rgb(34, 20, 188);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.ds {
+    background-color: rgb(26, 1, 1);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.kw {
+    background-color: rgb(136, 8, 38);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
